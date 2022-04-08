@@ -1,0 +1,25 @@
+{
+    "exercises": [
+        {
+          "id": 1,
+          "titel": "bizep curls",
+          "class": "bizeps",
+          "difficulty": 1,
+          "comment": "nice"
+        },
+        {
+          "id": 2,
+          "titel": "benchpress",
+          "class": "chest",
+          "difficulty": 2,
+          "comment": "cool"
+        },
+        {
+          "id": 3,
+          "titel": "squads",
+          "class": "legs",
+          "difficulty": 2,
+          "comment": "pain"
+        }
+      ]
+}
